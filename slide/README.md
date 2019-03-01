@@ -2,7 +2,7 @@
 
 ## Introduction
 * [Introduction to the course](Intro-01-course-intro-2019.pdf)
-* [Theme of the year 2018](Intro-02-project-theme-2019.pdf)
+* [Theme of the year 2019](Intro-02-project-theme-2019.pdf)
 * Projects and groups evaluation results
     * Detailed comments and results
 * [Prepare material for the exam](Intro-04-exam-preparation.pdf)
