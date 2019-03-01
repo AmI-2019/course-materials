@@ -1,10 +1,10 @@
-# AmI-2018 slides
+# AmI-2019 slides
 
 ## Introduction
-* [Introduction to the course](Intro-01-course-intro-2018.pdf)
-* [Theme of the year 2018](Intro-02-project-theme-2018.pdf)
-* [Projects and groups evaluation results](Intro-03-projects-groups.pdf)
-    * [Detailed comments and results](https://docs.google.com/spreadsheets/d/1gFsi_kk7qrKwoX7bgFU9iPldWtOs-Iwoenyzql4oBcQ/edit?usp=sharing)
+* [Introduction to the course](Intro-01-course-intro-2019.pdf)
+* [Theme of the year 2018](Intro-02-project-theme-2019.pdf)
+* Projects and groups evaluation results
+    * Detailed comments and results
 * [Prepare material for the exam](Intro-04-exam-preparation.pdf)
 
 ## Ambient Intelligence
