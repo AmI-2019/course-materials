@@ -2,7 +2,7 @@
 
 * [Intro to Python (and Git)](Labs-01-python-git-intro.pdf)
 * [Python Basics](Labs-02-python-basics.pdf)
-* Python Intermediate (Telegram bot)
+* [Python Intermediate](Labs-03-python-intermediate.pdf)
 * Using Databases with Python
 * Web Applications in Python with Flask
 
