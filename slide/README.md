@@ -16,7 +16,7 @@
 * [Building web applications with Flask](Python-04-Flask.pdf)
 
 ## Web design
-* [CSS and Bootstrap](Web-02-css-bootstrap.pdf)
-* [HTTP and JSON](Web-03-json-http.pdf)
-* [REST API](Web-04-restapi.pdf)
-* [Javascript](Web-05-javascript.pdf)
+* [CSS and Bootstrap](Web-01-css-bootstrap.pdf)
+* [HTTP and JSON](Web-02-json-http.pdf)
+* [REST API](Web-03-restapi.pdf)
+* [Javascript](Web-04-javascript.pdf)
