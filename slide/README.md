@@ -17,6 +17,5 @@
 
 ## Web design
 * [CSS and Bootstrap](Web-01-css-bootstrap.pdf)
-* [HTTP and JSON](Web-02-json-http.pdf)
-* [REST API](Web-03-restapi.pdf)
-* [Javascript](Web-04-javascript.pdf)
+* [REST API](Web-02-restapi.pdf)
+* [Javascript](Web-03-javascript.pdf)
