@@ -6,6 +6,7 @@
 * [Using Databases with Python](Labs-04-python-Databases.pdf)
 * [Web Applications in Python with Flask](Labs-05-python-Flask.pdf)
 * [Rest in Python](Labs-06-python-Rest.pdf)
+* [Android](Labs-08-android.pdf)
 
 ---
 
